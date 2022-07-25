@@ -1,0 +1,110 @@
+2022
+archive ratio of websites from all time     
+491 of subjects have waybackmachine archive
+9 of subjects don't have waybackmachine archive
+average archive rate is: 0.982
+average index of successful urls is: 494324.568
+
+2021
+469 of subjects have waybackmachine archive
+31 of subjects don't have waybackmachine archive
+average archive rate is: 0.938
+average index of successful urls is: 467897.102
+
+archive ratio of websites from 2020
+411 of subjects have waybackmachine archive
+89 of subjects don't have waybackmachine archive
+average archive rate is: 0.822
+average index of successful urls is: 412746.496
+
+
+2019:
+393 of subjects have waybackmachine archive
+107 of subjects don't have waybackmachine archive
+average archive rate is: 0.786
+average index of successful urls is: 391381.684
+month: 1 has 313
+month: 2 has 253
+month: 3 has 261
+month: 4 has 271
+month: 5 has 295
+month: 6 has 273
+month: 7 has 282
+month: 8 has 286
+month: 9 has 275
+month: 10 has 282
+month: 11 has 227
+month: 12 has 300
+
+2016
+378 of subjects have waybackmachine archive
+122 of subjects don't have waybackmachine archive
+average archive rate is: 0.756
+average index of successful urls is: 378288.522
+month: 1 has 349
+month: 2 has 257
+month: 3 has 345
+month: 4 has 276
+month: 5 has 258
+month: 6 has 259
+month: 7 has 245
+month: 8 has 252
+month: 9 has 228
+month: 10 has 354
+month: 11 has 247
+month: 12 has 188
+
+
+Year: 2016 month: 1 has 349 archives
+Year: 2016 month: 2 has 257 archives
+Year: 2016 month: 3 has 345 archives
+Year: 2016 month: 4 has 276 archives
+Year: 2016 month: 5 has 258 archives
+Year: 2016 month: 6 has 259 archives
+Year: 2016 month: 7 has 245 archives
+Year: 2016 month: 8 has 252 archives
+Year: 2016 month: 9 has 228 archives
+Year: 2016 month: 10 has 354 archives
+Year: 2016 month: 11 has 247 archives
+Year: 2016 month: 12 has 188 archives
+
+Year: 2019 month: 1 has 313 archives
+Year: 2019 month: 2 has 253 archives
+Year: 2019 month: 3 has 261 archives
+Year: 2019 month: 4 has 271 archives
+Year: 2019 month: 5 has 295 archives
+Year: 2019 month: 6 has 273 archives
+Year: 2019 month: 7 has 282 archives
+Year: 2019 month: 8 has 286 archives
+Year: 2019 month: 9 has 275 archives
+Year: 2019 month: 10 has 282 archives
+Year: 2019 month: 11 has 227 archives
+Year: 2019 month: 12 has 300 archives
+
+matching:
+ month: 1 has 279 matches between both years
+ month: 2 has 192 matches between both years
+ month: 3 has 238 matches between both years
+ month: 4 has 213 matches between both years
+ month: 5 has 207 matches between both years
+ month: 6 has 205 matches between both years
+ month: 7 has 202 matches between both years
+ month: 8 has 210 matches between both years
+ month: 9 has 182 matches between both years
+ month: 10 has 257 matches between both years
+ month: 11 has 161 matches between both years
+ month: 12 has 164 matches between both years
+
+average index
+month: 1's average index of matching archived urls is 500420.8781362007
+month: 2's average index of matching archived urls is 459230.5833333333
+month: 3's average index of matching archived urls is 479879.14285714284
+month: 4's average index of matching archived urls is 482120.08450704225
+month: 5's average index of matching archived urls is 462388.4202898551
+month: 6's average index of matching archived urls is 462671.0536585366
+month: 7's average index of matching archived urls is 456990.6732673267
+month: 8's average index of matching archived urls is 460076.75238095236
+month: 9's average index of matching archived urls is 477158.35164835164
+month: 10's average index of matching archived urls is 472891.2101167315
+month: 11's average index of matching archived urls is 426202.68944099377
+month: 12's average index of matching archived urls is 456394.51829268294
